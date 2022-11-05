@@ -1,1 +1,1 @@
-#repo z różnymi przykładami.
+# repo z różnymi przykładami.

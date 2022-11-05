@@ -1,1 +1,1 @@
-#Przykładowy program z wykorzystaniem Websockets API
+# Przykładowy program z wykorzystaniem Websockets API
